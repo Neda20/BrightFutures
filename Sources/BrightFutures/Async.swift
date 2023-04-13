@@ -150,3 +150,6 @@ extension Async: CustomStringConvertible, CustomDebugStringConvertible {
         return description
     }
 }
+
+// deprecation example added by Neda
+protocol Test: class {}
